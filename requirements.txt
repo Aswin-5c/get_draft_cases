@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+clickhouse-connect
+requests
+pandas
+pydantic
+python-dotenv
+plotly
